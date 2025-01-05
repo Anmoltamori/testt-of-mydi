@@ -1619,7 +1619,7 @@ nav .btn{
   flex-wrap: wrap;
   gap: 30px;
   margin-top: 30px;
-
+    grid-template-columns: repeat(2, 1fr);
 }
 
 .page2 .score-container {
